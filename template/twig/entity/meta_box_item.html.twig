@@ -1,0 +1,9 @@
+{% set id = get_id(data) %}
+<div class="relation-item" data-value="{{ id|esc_attr }}" data-priority="{{ priority|esc_attr }}">
+    {{ remove_modal|raw }}
+    {{ move_handle|raw }}
+    <a href="{{ get_edit_link(data)|raw }}" class="link relation-link">
+        <span class="ellipsis-text relation-item-text d-block py-1">{{ get_title(data)|raw }} <smll>({{ id|raw }})</smll></span>
+    </a>
+</div>
+

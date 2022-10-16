@@ -1,0 +1,25 @@
+{
+  "name": "pmpr-mdl/wp-mdl-relation",
+  "type": "project",
+  "license": "proprietary",
+  "description": "Relation Module for Wordpress",
+  "keywords": [
+    "wordpress",
+    "package",
+    "relation"
+  ],
+  "require": {
+    "php": ">=7.4",
+    "pmpr-cmn/wp-cmn-foundation": "~1.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Pmpr\\Module\\Relation\\": "src/Pmpr/Module/Relation"
+    },
+    "files": [
+      "index.php"
+    ]
+  },
+  "minimum-stability": "dev",
+  "version": "1.0.0"
+}
