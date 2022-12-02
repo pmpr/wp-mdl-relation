@@ -4,4 +4,4 @@
     |             638a6d591b4b8             |
     |_______________________________________|
 */
- use Pmpr\Module\Relation\Relation; Relation::symcgieuakksimmu();
+ namespace Pmpr\Module\Relation\Widget; use Pmpr\Common\Foundation\Widget; abstract class Common extends Widget { }
