@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Pmpr Relation\n"
-"POT-Creation-Date: 2022-12-02 23:05+0330\n"
-"PO-Revision-Date: 2022-12-03 00:36+0330\n"
+"POT-Creation-Date: 2022-12-12 15:06+0330\n"
+"PO-Revision-Date: 2022-12-12 15:06+0330\n"
 "Last-Translator: Farshadi <pmpr.ir@gmail.com>\n"
 "Language-Team: \n"
 "Language: fa_IR\n"
@@ -59,7 +59,7 @@ msgstr "در مورد حذف این آیتم مطمئن هستید؟"
 msgid "Type Name of a %s"
 msgstr "نام یک %s را بنویسید"
 
-#: src/Pmpr/Module/Relation/Entity/Entity.php:337
+#: src/Pmpr/Module/Relation/Entity/Entity.php:339
 msgid "Relations"
 msgstr "رابطه‌ها"
 
@@ -166,7 +166,7 @@ msgstr "عنوان مقصد"
 
 #: src/Pmpr/Module/Relation/Relation.php:22
 #: src/Pmpr/Module/Relation/Setting.php:25
-#: src/Pmpr/Module/Relation/Widget/Post.php:50
+#: src/Pmpr/Module/Relation/Widget/Post.php:47
 msgid "Relation"
 msgstr "رابطه"
 
@@ -182,33 +182,33 @@ msgstr "رابطه بین نوشته‌ها"
 msgid "Display the related posts."
 msgstr "نمایش نوشته‌های مرتبط."
 
-#: src/Pmpr/Module/Relation/Widget/Post.php:46
+#: src/Pmpr/Module/Relation/Widget/Post.php:43
 msgid "Title"
 msgstr "عنوان"
 
-#: src/Pmpr/Module/Relation/Widget/Post.php:54
+#: src/Pmpr/Module/Relation/Widget/Post.php:52
 msgid "Count"
 msgstr "تعداد"
 
-#: src/Pmpr/Module/Relation/Widget/Post.php:64
+#: src/Pmpr/Module/Relation/Widget/Post.php:57
 msgid "Metadata"
 msgstr "متادیتا"
 
-#: src/Pmpr/Module/Relation/Widget/Post.php:71
-msgid "Show Template"
+#: src/Pmpr/Module/Relation/Widget/Post.php:62
+msgid "Render Template"
 msgstr "قالب نمایش"
 
-#: src/Pmpr/Module/Relation/Widget/Post.php:73
-msgid "Simple List"
-msgstr "لیست ساده"
-
-#: src/Pmpr/Module/Relation/Widget/Post.php:74
+#: src/Pmpr/Module/Relation/Widget/Post.php:64
 msgid "List"
 msgstr "لیست"
 
-#: src/Pmpr/Module/Relation/Widget/Post.php:75
+#: src/Pmpr/Module/Relation/Widget/Post.php:65
 msgid "Table"
 msgstr "جدول"
+
+#: src/Pmpr/Module/Relation/Widget/Post.php:66
+msgid "Simple List"
+msgstr "لیست ساده"
 
 #~ msgid "FAQ"
 #~ msgstr "سوالات متداول"
