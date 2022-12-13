@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Pmpr Relation\n"
-"POT-Creation-Date: 2022-12-12 15:06+0330\n"
-"PO-Revision-Date: 2022-12-12 15:06+0330\n"
+"POT-Creation-Date: 2022-12-13 18:22+0330\n"
+"PO-Revision-Date: 2022-12-13 18:23+0330\n"
 "Last-Translator: Farshadi <pmpr.ir@gmail.com>\n"
 "Language-Team: \n"
 "Language: fa_IR\n"
@@ -165,14 +165,18 @@ msgid "Destination Title"
 msgstr "عنوان مقصد"
 
 #: src/Pmpr/Module/Relation/Relation.php:22
-#: src/Pmpr/Module/Relation/Setting.php:25
+#: src/Pmpr/Module/Relation/Setting.php:26
 #: src/Pmpr/Module/Relation/Widget/Post.php:47
 msgid "Relation"
 msgstr "رابطه"
 
-#: src/Pmpr/Module/Relation/Setting.php:24
+#: src/Pmpr/Module/Relation/Setting.php:25
 msgid "Relation Setting"
 msgstr "تنظیمات رابطه"
+
+#: src/Pmpr/Module/Relation/Setting.php:32
+msgid "General"
+msgstr "عمومی"
 
 #: src/Pmpr/Module/Relation/Widget/Post.php:25
 msgid "Post Relations"
@@ -317,9 +321,6 @@ msgstr "لیست ساده"
 
 #~ msgid "Setting"
 #~ msgstr "تنظیمات"
-
-#~ msgid "General"
-#~ msgstr "عمومی"
 
 #~ msgid "Exclude Posts"
 #~ msgstr "نوشته‌های مستثنی"
