@@ -4,4 +4,4 @@
     |             63ff9686830a2             |
     |_______________________________________|
 */
- use Pmpr\Module\Relation\Relation; Relation::symcgieuakksimmu();
+ namespace Pmpr\Module\Relation\Backend; class Post extends Common { }
